@@ -1,3 +1,16 @@
+/*
+*Author : Revanth Sai Nandamuri
+*Portfolio : https://revanthnandamuri1341b0.github.io/
+*Date of update : 28 June 2022
+*Project name : UART with Parity Check
+*Domain : Verilog
+*Description : 
+*Refrence : 
+*File Name : uart.v
+*File ID : 508797
+*Modified by : #your name#
+*/
+
 module uart(input wire [7:0] din,
 	    input wire wr_en,
 	    input wire clk,

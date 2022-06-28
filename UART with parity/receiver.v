@@ -1,3 +1,16 @@
+/*
+*Author : Revanth Sai Nandamuri
+*Portfolio : https://revanthnandamuri1341b0.github.io/
+*Date of update : 28 June 2022
+*Project name : UART with Parity Check
+*Domain : Verilog
+*Description : 
+*Refrence : 
+*File Name : receiver.v
+*File ID : 947514
+*Modified by : #your name#
+*/
+
 module receiver (rx,clk,clk_en,reset,ready,dout);
     input rx;
     input clk;

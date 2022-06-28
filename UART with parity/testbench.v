@@ -1,4 +1,16 @@
-// `include "uart.v"
+/*
+*Author : Revanth Sai Nandamuri
+*Portfolio : https://revanthnandamuri1341b0.github.io/
+*Date of update : 28 June 2022
+*Project name : UART with Parity Check
+*Domain : Verilog
+*Description : 
+*Refrence : 
+*File Name : testbench.v
+*File ID : 735947
+*Modified by : #your name#
+*/
+
 module uart_tx_test();
 
     reg [7:0] din = 0;

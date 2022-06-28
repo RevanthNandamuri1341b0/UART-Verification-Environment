@@ -1,3 +1,16 @@
+/*
+*Author : Revanth Sai Nandamuri
+*Portfolio : https://revanthnandamuri1341b0.github.io/
+*Date of update : 28 June 2022
+*Project name : UART with Parity Check
+*Domain : Verilog
+*Description : 
+*Refrence : 
+*File Name : transmitter.v
+*File ID : 735947
+*Modified by : #your name#
+*/
+
 module transmitter (din,wr_en,clk,clk_en,tx,tx_busy);
     input [7:0] din;
     input wr_en;
